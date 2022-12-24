@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSVR Assignment</string>
+    <string name="read_more"><u>Read more</u></string>
+    <string name="read_less"><u>Read less</u></string>
+</resources>
